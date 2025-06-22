@@ -38,7 +38,7 @@ The following Python libraries are used in this project:
 * **typing**: For type hints and annotations.
 
 
-Configure the Exchange API keys by by creating a .env file.
+Configure the Exchange API keys by by adding them to .env file.
 
 ```
 api_key = "your_api_key"
